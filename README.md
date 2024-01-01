@@ -77,5 +77,7 @@ An LCD (Liquid Crystal Display) refers to a display panel that is used to provid
 ## playing with axes:
 ![image](https://github.com/ramsai22/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150319855/2244341f-7c6b-481f-af6a-326e9d3708d8)
 
+### Name:paida ram sai
+### Register Number:23007931
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
