@@ -25,9 +25,6 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-
-### Name:paida ram sai
-### Register Number:23007931
 # Assembly of Delta 3D Printer:
 ![image](https://github.com/ramsai22/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150319855/1d356934-c82d-4df4-bca4-349524fb7ae7)
 # Base :
